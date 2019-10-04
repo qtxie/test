@@ -1,4 +1,4 @@
-# [openblog](https://qtxie.github.io/test)
+# A fork of https://github.com/casualjavascript/blog
 
 > Open, free blogging on **Github pages** with **Github issues.**
 
@@ -13,8 +13,3 @@ Link to individual posts by appending `?<issue_number>` to `index.html`.
 ### Live examples
 
 * **https://qtxie.github.io/test**
-
-### Styling
-
-* `css/structure.css` regulates the structure of the website,
-* `css/typography.css` regulates the typography.
